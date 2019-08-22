@@ -1,0 +1,1 @@
+Editing slave from inside the master
